@@ -72,5 +72,5 @@ Academic Conference.
 Before computing I was a tattoo artist for about five years, and I still manage Rose City Originals, the
 shop Seraph started at.
 
-[johnandres.ca](https://johnandres.ca) · [LinkedIn](https://www.linkedin.com/in/john-andres) ·
+[johnandres.ca](https://johnandres.ca) · [LinkedIn](https://www.linkedin.com/in/john-andres-/) ·
 [0johnandres@gmail.com](mailto:0johnandres@gmail.com)
