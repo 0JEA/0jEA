@@ -21,7 +21,8 @@ goals:
   ([Newson et al.](https://hal.science/hal-01520260v1/file/Film_grain_synthesis_computer_graphics_forum.pdf)).
 - Learn how light interacts with different types of materials, such as fog, fabric and porous materials.
 - Develop a strong understanding of how to get realism without needing the raw compute power, using methods
-  like Kubelka-Munk compositing, Kaneko et al. parallax mapping and displacement mapping.
+  like [Kubelka-Munk compositing](https://grail.cs.washington.edu/projects/watercolor/), Kaneko et al.
+  parallax mapping and displacement mapping.
 - Move it to Vulkan, so I'm working with a real GPU graphics API.
 
 <p align="center">
